@@ -39,5 +39,5 @@
 
 ![create a student](./assets/delete.png)
 
-#### Result of deletion of the student `Leeuw:
+#### Result of deletion of the student `Leeuw`:
 ![create a student](./assets/res_delete.png)
