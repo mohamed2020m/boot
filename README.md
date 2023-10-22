@@ -24,18 +24,18 @@
 
 ![create a student](./assets/get_all.png)
 
-### Count
+### students/count
 
 ![create a student](./assets/count.png)
 
-### Update
+### students/update/{id}
 
 ![create a student](./assets/update.png)
 
 #### Result of update birthdate of student `Leeuw`:
 ![create a student](./assets/res_update.png)
 
-### delete
+### students/delete/{id}
 
 ![create a student](./assets/delete.png)
 
